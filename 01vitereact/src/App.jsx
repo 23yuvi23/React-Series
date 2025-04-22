@@ -1,10 +1,7 @@
-import { useState } from 'react';
-
 function App() {
-  const [count, setCount] = useState(0)
-
+  
   return (
-      <h1>veet react with yuvi | mai hu don </h1>
+    <h1>chai aur react with vite</h1>
   )
 }
 
